@@ -2,10 +2,6 @@ streamlit
 pandas
 plotly
 numpy
-datetime
 mysql-connector-python
-mysql.connector
 folium
 streamlit-folium
-streamlit.components.v1
-plotly.graph_objects
